@@ -2,5 +2,7 @@
   "item.tutorialmod.ruby": "Ruby",
   "item.tutorialmod.raw_ruby": "Raw Ruby",
 
-  "itemgroup.ruby": "Ruby tutorial group"
+  "itemgroup.ruby": "Ruby Tutorial Group",
+
+  "block.ruby_block": "Block of Ruby"
 }
